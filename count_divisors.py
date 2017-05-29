@@ -1,4 +1,5 @@
 # This program intends to count total number of integers in an array divisible by a particular number.
+# Provide input should be 3 integers separated by space in format - 1 10 1
 
 a = [int(x) for x in input().split()]
 count = 0
